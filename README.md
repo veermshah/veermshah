@@ -38,6 +38,9 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
+## Hackathon Projects + Wins
+- Devpost: [devpost.com/veermickey](https://devpost.com/veermickey)
+
 ## 🌐 Connect with me:
 
 - LinkedIn: [linkedIn.com/VeerMickeyShah](https://www.linkedin.com/in/veermickeyshah/)
