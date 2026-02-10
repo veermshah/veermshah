@@ -2,9 +2,18 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. My focus is on building efficient and scalable systems, and I love using technology to solve real-world problems.
 
-## 💻 Tech Stack:
+### About Me
+- SWE Intern @ Capital One | Prev @ Fidelity Investments
+- B.S. Computer Science + M.S. Computer Science @ UT Dallas
+    - National Merit Finalist, CS^2 (Computing Scholars Honors Program), Collegium V
+- [7x Hackathon Winner](https://devpost.com/veermickey) - PennApps, HackUTA, HackSMU, HackTheChains, TAMUHack, HackUPC, HackFin
+- [Director of HackUTD](https://hackutd.co/) - Largest 24-hour hackathon in North America
+- [Research Assistant](https://www.s3lab.io/profile/veer) - Software & Systems Security Lab
+- I also like to travel and take [photos](https://unsplash.com/@veermickey)!
 
-### Languages:
+### 💻 Tech Stack:
+
+#### Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
@@ -14,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
-### Frameworks And Tools:
+#### Frameworks And Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -32,15 +41,16 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-### Databases:
+#### Databases:
 <p align="left">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-## Hackathon Projects + Wins
-- Devpost: [devpost.com/veermickey](https://devpost.com/veermickey)
-
-## 🌐 Connect with me:
-
-- LinkedIn: [linkedIn.com/VeerMickeyShah](https://www.linkedin.com/in/veermickeyshah/)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpat0304/devpat0304/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ugonnaanyalemechi/ugonnanyalemechi/output/github-snake.svg" />
+</picture>
+</p>
