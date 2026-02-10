@@ -3,13 +3,18 @@
 Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. My focus is on building efficient and scalable systems, and I love using technology to solve real-world problems.
 
 ### About Me
-- SWE Intern @ Capital One | Prev @ Fidelity Investments
-- B.S. Computer Science + M.S. Computer Science @ UT Dallas
+- **SWE Intern @ Capital One | Prev @ Fidelity Investments**
+- BS + MS Computer Science @ UT Dallas
     - National Merit Finalist, CS^2 (Computing Scholars Honors Program), Collegium V
 - [7x Hackathon Winner](https://devpost.com/veermickey) - PennApps, HackUTA, HackSMU, HackTheChains, TAMUHack, HackUPC, HackFin
 - [Director of HackUTD](https://hackutd.co/) - Largest 24-hour hackathon in North America
 - [Research Assistant](https://www.s3lab.io/profile/veer) - Software & Systems Security Lab
 - I also like to travel and take [photos](https://unsplash.com/@veermickey)!
+
+### Github Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veermshah&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ### 💻 Tech Stack:
 
@@ -46,6 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
+
 
 <p align="center">
 <picture>
