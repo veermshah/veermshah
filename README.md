@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-veermshah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veermshah)
 [![Devpost](https://img.shields.io/badge/Devpost-veermickey-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/veermickey)
 [![HackUTD](https://img.shields.io/badge/HackUTD-Director-1f6feb?style=for-the-badge)](https://hackutd.co/)
+[![Research](https://img.shields.io/badge/S3%20Lab-Research%20Assistant-6f42c1?style=for-the-badge)](https://www.s3lab.io/profile/veer)
 [![Unsplash](https://img.shields.io/badge/Unsplash-Photography-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@veermickey)
 ![Profile Views](https://komarev.com/ghpvc/?username=veermshah&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -16,41 +17,23 @@
 
 ---
 
-## About Me
+## Hi there, I'm Veer! 👋
+
+Welcome to my GitHub profile! I'm a developer focused on building efficient, scalable systems and using technology to solve real-world problems.
+
+### About Me
 
 - **SWE Intern @ Capital One | Prev @ Fidelity Investments**
 - **BS + MS Computer Science @ UT Dallas**
   - National Merit Finalist, CS² Computing Scholars Honors Program, Collegium V
 - **[8x Hackathon Winner](https://devpost.com/veermickey)** — PennApps, HackUTA, HackSMU, HackTheChains, TAMUHack, HackUPC, HackFin
-- **[Director of HackUTD](https://hackutd.co/)** — one of the largest 24-hour collegiate hackathons in North America
+- **[Director of HackUTD](https://hackutd.co/)** — largest 24-hour hackathon in North America
 - **[Research Assistant](https://www.s3lab.io/profile/veer)** — Software & Systems Security Lab
 - I also like to travel and take **[photos](https://unsplash.com/@veermickey)**
 
 ---
 
-## Focus
-
-- AI systems, semantic search, retrieval-augmented generation, and agentic applications
-- Full-stack engineering with scalable backend services, cloud infrastructure, and polished frontend experiences
-- Software security, systems engineering, developer tooling, and production debugging
-- Hackathon leadership, community building, and shipping products quickly under pressure
-
----
-
-## Featured Work
-
-### AI Search + Knowledge Systems
-Built hybrid semantic + lexical search systems using AWS OpenSearch, embeddings, vector search, reranking, and LLM-powered workflows to make internal knowledge easier to retrieve and use.
-
-### HackUTD
-Lead logistics, sponsor coordination, experience design, and technical operations for a large-scale 24-hour hackathon serving hundreds of builders.
-
-### Software & Systems Security Research
-Researching autonomous systems security through the Software & Systems Security Lab, with interest in robust systems, compilers, fuzzing, and reliable ML infrastructure.
-
----
-
-## Skills
+## 💻 Tech Stack
 
 ### Programming Languages
 <p>
@@ -67,7 +50,7 @@ Researching autonomous systems security through the Software & Systems Security 
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,githubactions,vercel,linux,nginx,git,github&perline=13" />
 </p>
 
-### Databases / Data / APIs
+### Databases / APIs
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,redis,graphql,postman&perline=13" />
 </p>
@@ -94,8 +77,3 @@ Researching autonomous systems security through the Software & Systems Security 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veermshah&theme=github-dark&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
 </p>
 
----
-
-<div align="center">
-  <sub>Always building, learning, and shipping.</sub>
-</div>
