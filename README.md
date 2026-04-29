@@ -2,12 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:FFFFFF,100:E5E7EB&height=220&section=header&text=Veer%20Shah&fontSize=52&fontColor=111827&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Hackathon%20Organizer&descAlignY=58&descSize=18&descColor=4B5563)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2200&pause=800&color=6B7280&center=true&vCenter=true&width=750&lines=SWE+Intern+%40+Capital+One;Prev+Software+%2B+AI+Engineering+Intern+%40+Fidelity+Investments;BS+%2B+MS+Computer+Science+%40+UT+Dallas;Director+%40+HackUTD;Research+Assistant+%40+Software+%26+Systems+Security+Lab;8x+Hackathon+Winner" />
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Veer%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veermickeyshah/)
-[![Devpost](https://img.shields.io/badge/Devpost-8x%20Hackathon%20Winner-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/veermickey)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/veermickey)
 [![HackUTD](https://img.shields.io/badge/HackUTD-Director-1f6feb?style=for-the-badge)](https://hackutd.co/)
 [![Unsplash](https://img.shields.io/badge/Unsplash-Photography-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@veermickey)
 ![Profile Views](https://komarev.com/ghpvc/?username=veermshah&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
@@ -27,17 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
 - [Director of HackUTD](https://hackutd.co/) - Largest 24-hour hackathon in North America
 - [Research Assistant](https://www.s3lab.io/profile/veer) - Software & Systems Security Lab
 - I also like to travel and take [photos](https://unsplash.com/@veermickey)!
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veermshah&theme=transparent&hide_border=true" width="49%" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veermshah&theme=github-dark&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph">
-</p>
 
 ---
 
@@ -148,6 +134,20 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
+
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veermshah&theme=transparent&hide_border=true" width="49%" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veermshah&theme=github-dark&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph">
+</p>
+
+---
 
 <p align="center">
 <picture>
