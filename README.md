@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:FFFFFF,100:E5E7EB&height=220&section=header&text=Veer%20Shah&fontSize=52&fontColor=111827&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Hackathon%20Organizer&descAlignY=58&descSize=18&descColor=4B5563)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veer%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veermickeyshah/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veermickeyshah/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/veermickey)
 [![HackUTD](https://img.shields.io/badge/HackUTD-Director-1f6feb?style=for-the-badge)](https://hackutd.co/)
 [![Unsplash](https://img.shields.io/badge/Unsplash-Photography-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@veermickey)
