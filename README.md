@@ -1,10 +1,4 @@
 # Hi there, I'm Veer! 👋
-</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vladislav-kondratyev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vxk230059@utdallas.edu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-VladislavKon-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VladislavKon/)
-![Profile Views](https://komarev.com/ghpvc/?username=ch1kim0n1&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
-</div>
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. My focus is on building efficient and scalable systems, and I love using technology to solve real-world problems.
 
