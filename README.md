@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:FFFFFF,100:E5E7EB&height=220&section=header&text=Veer%20Shah&fontSize=52&fontColor=111827&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Blockchain%20Developer%20Hackathon%20Organizer&descAlignY=58&descSize=18&descColor=4B5563)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:FFFFFF,100:E5E7EB&height=220&section=header&text=Veer%20Shah&fontSize=52&fontColor=111827&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Blockchain%20Developer%20%7C%20Hackathon%20Organizer&descAlignY=58&descSize=18&descColor=4B5563)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veermickeyshah/)
